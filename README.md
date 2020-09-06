@@ -1,5 +1,5 @@
 # godd
-<html>
+
 <b> Hi, I'm Tomiwa <b>
 
 I'm a self taught software engineer and pentester from Lagos,Nigeria striving to innovate great solutions to modern-day problems. I specialize in digital design, ethical hacking and development, but any activity requiring problem solving and creative thinking is where you will find me.
@@ -14,4 +14,4 @@ Where you'll find me
   Instagam: https://www.instagram.com/error96security/
   Twitter: https://twitter.com/computergoddd
   Mail: tomiwa@oluwatomiwa.com
-</html>
+
